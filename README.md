@@ -4,14 +4,11 @@ Hi 👋 My name is Max Belov
 Frontend Developer and Web Designer
 -----------------------------------
 
-know HTML/CSS, learn JS, love Figma
-
-* 🌍  I'm based in Ufa
+* 🌍  I'm based in Ufa, Russia
 * 🖥️  See my portfolio at [hh](http://hh.ru/resume/d2ec3591ff0c5fa69d0039ed1f6e747543555a)
 * ✉️  You can contact me at [maxbelov2002@mail.ru](mailto:maxbelov2002@mail.ru)
 * 🚀  I'm currently working on [FreeFood](http://free-food.ru)
-* 🧠  I'm learning JavaSript
-* 🤝  I'm open to collaborating on everything with web/app concepts
+* 🧠  I'm learning JavaSript 
 
 ### Skills
 
@@ -24,7 +21,3 @@ know HTML/CSS, learn JS, love Figma
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/e5959b93" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> <a href="https://www.codepen.io/kirst31" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kirst31" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/kirst31" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirst31&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
