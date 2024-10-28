@@ -1,4 +1,4 @@
-Hi 👋 My name is Max Belov
+Hi 👋 I'm Max Belov
 ==========================
 
 Frontend Developer and Web Designer
