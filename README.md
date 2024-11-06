@@ -1,4 +1,4 @@
-Hi 👋 I'm Max Belov
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=371DB6&center=false&multiline=true&width=435&lines=Hi%2C+I'm+Max+Belov)](https://git.io/typing-svg)
 ==========================
 
 Frontend Developer and Web Designer
