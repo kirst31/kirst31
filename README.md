@@ -5,7 +5,7 @@ Frontend Developer and Web Designer
 -----------------------------------
 
 * 🌍  I'm based in Ufa, Russia
-* 🖥️  See my portfolio at [hh](http://hh.ru/resume/d2ec3591ff0c5fa69d0039ed1f6e747543555a)
+* 🖥️  See my portfolio at [hh](http://hh.ru/resume/d2ec3591ff0c5fa69d0039ed1f6e747543555a) or my website (soon!)
 * 👾  You can contact me by [Telegram](https://t.me/ibelmax)
 
 ### Skills
