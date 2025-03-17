@@ -2,6 +2,7 @@
 ==========================
 
 Frontend Developer & Designer
+
 -----------------------------------
 
 * 🌏  I'm based in Ufa, Russia
