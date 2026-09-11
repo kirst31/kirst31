@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=371DB6&center=false&multiline=true&width=435&lines=Hi%2C+I'm+Max+Belov)](https://git.io/typing-svg)
 ==========================
 
-Frontend Developer & Graphic Designer
+Fullstack Developer & Graphic Designer
 -----------------------------------
 
 * 🌏  I'm based in Ufa, Russia
-* 🖥️  See my portfolio at [hh](http://hh.ru/resume/d2ec3591ff0c5fa69d0039ed1f6e747543555a) or on my website (very soon!)
-* 👾  You can contact me by [Telegram](https://t.me/ibelmax) or at [maxbelov2002@mail.ru](mailto:maxbelov2002@mail.ru)
+* 🖥️  See my portfolio at [hh](https://hh.ru/resume/5fea6aaaff0fcb857e0039ed1f4a6f336d784a) or on my website (very soon!)
+* 👾  You can contact me by [Telegram](https://t.me/ibelmax) or at [developer.belov@yandex.ru](mailto:developer.belov@yandex.ru)
 
 ### Skills
 
